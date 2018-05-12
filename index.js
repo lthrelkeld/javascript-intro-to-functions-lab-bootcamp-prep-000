@@ -17,10 +17,5 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  if() ()
-    return 
-  }
-  else{
-    return 
-  }
+  if(){}
 }
